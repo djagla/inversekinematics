@@ -1,2 +1,2 @@
 # inversekinematics
-This the 6DOF manipulator project.
+This is the 6DOF manipulator project.
